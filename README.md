@@ -32,3 +32,14 @@ This board is currently in an [RC2014](https://rc2014.co.uk/1377/module-template
 
 ## Firmware
 Support for CyBorgSPP is built-in to CyBorg's firmware running on the [ViCREM](https://github.com/cyrusbuilt/CyBorg-Northbridge) chip.
+
+## Sponsorship
+This project is sponsored by [PCBWay](https://www.pcbway.com/). I've been using PCBWay to produce my boards for years and I've always been impressed with the quality. Their pre-production team has even caught mistakes I didn't notice before sending my designs in. The ordering process is simple: just upload a zip file of your gerbers (their site even renders a preview of what the board will look like!) and then you can tweak parameters if needed (including color) and quantity, pick your shipping method, and that's it! They've even produced a series of videos about the whole process you can view [here](https://www.pcbway.com/pcb-service.html?step=1#miao1).
+
+But how good are the boards? Well... see for yourself:
+
+![fresh_boards](fresh_boards.jpg)
+
+The default color is green (of course), but I really like the black. For you [KiCAD](https://www.kicad.org/) fans out there, it's also worth noting that PCBWay is one of their sponsors too, but they also have a [KiCAD Plugin](https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html) that makes the transfer of the design to production easy. Check it out!
+
+Personally, I still mostly use [EasyEDA](https://easyeda.com/) for my designs, the process is still pretty simple: Just export the gerber files and upload to PCBWay using their [quick order feature](https://www.pcbway.com/QuickOrderOnline.aspx) and off you go!
